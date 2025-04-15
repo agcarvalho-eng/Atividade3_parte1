@@ -1,4 +1,4 @@
-// String XML conforme o exemplo
+
 const xmlString = `
   <catalogo>
     <produto id="A45">
