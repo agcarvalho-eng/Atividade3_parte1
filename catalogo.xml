@@ -1,0 +1,7 @@
+<catalogo>
+  <produto id="A45">
+    <nome>Caneta Azul</nome>
+    <preco>2.50</preco>
+    <estoque>150</estoque>
+  </produto>
+</catalogo>
